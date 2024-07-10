@@ -96,4 +96,4 @@ async def remove_censored_word(ctx, *, word):
 
 
 # Replace 'TOKEN' with your bot's token
-bot.run('Bot_Token')
+bot.run('BOT_TOKEN')
